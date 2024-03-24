@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "435273478873",
+    "firebase_url": "https://final24-e11a3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "final24-e11a3",
+    "storage_bucket": "final24-e11a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435273478873:android:27fa84ab02e81abb7644c8",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.final24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpnpfJ8nrON-NTPlAZJbviT3z1suWTJWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435273478873:android:a5303c88b46ba0167644c8",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.finalcrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpnpfJ8nrON-NTPlAZJbviT3z1suWTJWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
